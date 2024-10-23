@@ -3,5 +3,6 @@ def linearSearch(array, value):
         if array[i] == value:
             return 1
     return -1
-        
-print(linearSearch([20,30,50,80,90], 90))
+
+
+print(linearSearch([20, 30, 50, 80, 90], 90))
